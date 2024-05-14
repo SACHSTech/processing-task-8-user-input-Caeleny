@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/**/*.jar"
+        ],
+        "exclude": [
+            "lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-1-calling-functions-Caeleny/bin/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-2-using-variables-Caeleny/bin/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-5-loop-lab-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-6-creatingmethods-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-3---creating-variables-and-if-statemements-Caeleny/bin/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-2-using-variables-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-4-loops-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-3---creating-variables-and-if-statemements-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-1-calling-functions-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-intro-Caeleny/lib/repl_core.jar",
+            "/Users/caelenyeung/Downloads/Comp sci gr11/processing-task-6-creatingmethods-Caeleny-1/lib/repl_core.jar"
+        ]
+    }
+}
